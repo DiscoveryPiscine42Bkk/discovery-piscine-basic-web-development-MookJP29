@@ -6,12 +6,14 @@ body{
     position: fixed;
     width: 100vw; 
     max-width: 100vw;
+    height: 10vh;
     list-style: none; 
     background-color:rgb(255, 255, 255) ;
 }
 .nav-list {
     display: flex;
     justify-content: space-around;
+    padding-top: 3vh ;
     font-size: 3vh;
 }
 a {
